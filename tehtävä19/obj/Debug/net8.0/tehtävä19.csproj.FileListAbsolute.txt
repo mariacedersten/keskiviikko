@@ -1,0 +1,14 @@
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/bin/Debug/net8.0/tehtävä19
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/bin/Debug/net8.0/tehtävä19.deps.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/bin/Debug/net8.0/tehtävä19.runtimeconfig.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/bin/Debug/net8.0/tehtävä19.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/bin/Debug/net8.0/tehtävä19.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.AssemblyInfoInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.AssemblyInfo.cs
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.csproj.CoreCompileInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/refint/tehtävä19.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/tehtävä19.genruntimeconfig.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/keskiviikko/tehtävä19/obj/Debug/net8.0/ref/tehtävä19.dll

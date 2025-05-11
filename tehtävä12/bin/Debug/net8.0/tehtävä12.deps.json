@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tehtävä12/1.0.0": {
+        "runtime": {
+          "tehtävä12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tehtävä12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
